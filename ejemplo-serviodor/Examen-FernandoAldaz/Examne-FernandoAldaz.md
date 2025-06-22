@@ -1,4 +1,4 @@
-## Servicio REST - Examen 22 Junio 2025
+## Servicio REST - Examen Fernando Aldaz
 
 Este proyecto implementa un servicio REST con **NestJS**, que permite consultar casas. Si se proporciona el parámetro `idCasa`, se devuelve solo la casa correspondiente. Si no se encuentra, se retorna un error 404.  
 > El módulo de lógica (`CasaService` y `CasaController`) está contenido en una carpeta **fuera del `src/`**, llamada `Examen-FernandoAldaz`.
