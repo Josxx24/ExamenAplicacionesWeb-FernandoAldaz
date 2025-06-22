@@ -14,7 +14,7 @@ var __param = (this && this.__param) || function (paramIndex, decorator) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.CasaController = void 0;
 const common_1 = require("@nestjs/common");
-const casa_service_1 = require("./casa.service");
+const casa_service_1 = require("../Examen-FernandoAldaz/casa.service");
 let CasaController = class CasaController {
     casaService;
     constructor(casaService) {

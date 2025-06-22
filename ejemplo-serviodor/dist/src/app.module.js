@@ -10,8 +10,8 @@ exports.AppModule = void 0;
 const common_1 = require("@nestjs/common");
 const app_controller_1 = require("./app.controller");
 const app_service_1 = require("./app.service");
-const casa_controller_1 = require("./casa.controller");
-const casa_service_1 = require("./casa.service");
+const casa_controller_1 = require("../Examen-FernandoAldaz/casa.controller");
+const casa_service_1 = require("../Examen-FernandoAldaz/casa.service");
 let AppModule = class AppModule {
 };
 exports.AppModule = AppModule;

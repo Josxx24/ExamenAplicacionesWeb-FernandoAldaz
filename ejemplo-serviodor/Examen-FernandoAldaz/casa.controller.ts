@@ -1,5 +1,5 @@
 import { Controller, Get, Query, NotFoundException } from '@nestjs/common';
-import { CasaService } from '../src/casa.service';
+import { CasaService } from '../Examen-FernandoAldaz/casa.service';
 
 @Controller('casa')
 export class CasaController {
