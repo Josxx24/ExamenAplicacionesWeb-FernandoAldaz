@@ -1,2 +1,2 @@
-# ExamenAplicacionesWeb-FernandoAldaz-MaicolNasimba-
-ExamenAplicacionesWeb-FernandoAldaz-MaicolNasimba-
+# ExamenAplicacionesWeb-FernandoAldaz
+ExamenAplicacionesWeb-FernandoAldaz
